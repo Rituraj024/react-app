@@ -1,0 +1,12 @@
+h1{
+  font-weight: bold;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+}
+.item-container{
+  margin-left: 200px;
+}
